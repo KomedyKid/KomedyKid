@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KomedyKid
 - 👀 I’m interested in ... Learning python
-- 🌱 I’m currently learning ... python basics
-- 💞️ I’m looking to collaborate on ... simple projects that ar echallenging enough for me to develop
-- 📫 How to reach me ... discord: KomedyKid#4668
+- 🌱 I’m currently learning ... machine learning
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... discord: KomedyKid#6969
 
 <!---
 KomedyKid/KomedyKid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
