@@ -1,4 +1,4 @@
-# Yahya Yahyaei
+# Salim Yahyaei
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yahyaei/" target="_blank">
