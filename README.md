@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @KomedyKid
-- 👀 I’m interested in ... python and java
-- 🌱 I’m currently learning ... machine learning
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... discord: KomedyKid
+# Yahya Yahyaei
 
-<!---
-KomedyKid/KomedyKid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://www.linkedin.com/in/yahyaei/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://yahyaei.net" target="_blank">
+    <img src="https://img.shields.io/badge/yahyaei.net-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+</p>
