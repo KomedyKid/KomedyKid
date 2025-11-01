@@ -1,7 +1,7 @@
 # Salim Al Yahyaei
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yahyaei/" target="_blank">
+  <a href="https://www.linkedin.com/in/salimyahyaei/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
